@@ -1,16 +1,13 @@
-## Hi there 👋
+###Olá, eu sou o Eder Henrique 👋
+Sou estudante de programação há 4 anos e sou apaixonado por tecnologia. Durante minha jornada, explorei diversas linguagens e frameworks, com foco em Python, JavaScript, PHP, React, React Native, Dart e Flutter. Estou sempre buscando aprender mais e colaborar com outros desenvolvedores em projetos interessantes.
 
-<!--
-**EderH3nr963/EderH3nr963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias que eu utilizo:
+Back-end: Python, PHP
+Front-end: JavaScript, React
+Mobile: React Native, Flutter (Dart)
+📂 Projetos em destaque:
+[ApiSistemaBancario](link para o repositório)
+Um projeto que simula a criação de uma API para um sistema bancário, onde é possível realizar operações de depósito, saque e consulta de saldo.
+💬 Vamos conversar!
+LinkedIn: [Eder Henrique](link do LinkedIn)
+Twitter: [@EderDev](link do Twitter)
