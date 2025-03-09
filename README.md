@@ -9,6 +9,7 @@ Sou estudante de programação há 4 anos e sou apaixonado por tecnologia. Duran
 
 ## 🚀 Tecnologias que eu utilizo:
 - **Back-end**:
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
