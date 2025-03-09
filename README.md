@@ -8,6 +8,10 @@
 Sou estudante de programação há 4 anos e sou apaixonado por tecnologia. Durante minha jornada, explorei diversas linguagens e frameworks, com foco em Python, JavaScript, PHP, React, React Native, Dart e Flutter. Estou sempre buscando aprender mais e colaborar com outros desenvolvedores em projetos interessantes.
 
 ## 🚀 Tecnologias que eu utilizo:
+- **Database**:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 - **Back-end**:
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
