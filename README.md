@@ -48,11 +48,11 @@ Sou estudante de programação há 4 anos e sou apaixonado por tecnologia. Duran
 - **[To Do List em Django](https://github.com/EderH3nr963/toDoListDjango.git)**  
 Uma aplicação simples de gerenciamento de tarefas utilizando o framework Django. O projeto utiliza a arquitetura MVT para permitir aos usuários criar, listar, atualizar e excluir tarefas de forma eficiente.
 
-## 📬 Onde me encontrar:
-- Email: ederjustino104@gmail.com
-
 ## Estatística
 ![Eder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EderH3nr963&show_icons=true&theme=dark)
+
+## 📬 Onde me encontrar:
+- Email: ederjustino104@gmail.com
 
 
 
