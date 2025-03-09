@@ -52,7 +52,7 @@ Uma aplicação simples de gerenciamento de tarefas utilizando o framework Djang
 - Email: ederjustino104@gmail.com
 
 ## Estatística
-- ![Eder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EderH3nr963&show_icons=true&theme=dark)
+![Eder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EderH3nr963&show_icons=true&theme=dark)
 
 
 
