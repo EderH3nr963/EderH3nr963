@@ -16,3 +16,7 @@ Uma aplicação simples de gerenciamento de tarefas utilizando o framework Djang
 
 
 <img src="https://raw.githubusercontent.com/EderH3nr963/EderH3nr963/output/snake.svg" alt="Snake animation" />
+
+###
+
+
