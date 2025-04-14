@@ -52,10 +52,13 @@ Uma aplicação simples de gerenciamento de tarefas utilizando o framework Djang
 Uma API RESTful completa de ecommerce, usando tecnologias atuais, com processamento de pagamento usando mercado pago e controle de authentificação de usuário.
 
 ## Estatística
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EderH3nr963&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 ![Eder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EderH3nr963&show_icons=true&theme=dark)
 
 ## 📬 Onde me encontrar:
 - Email: ederjustino104@gmail.com
+- Instagram: @eder_.h_bjj
 
 
 
