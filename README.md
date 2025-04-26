@@ -45,6 +45,9 @@ Sou estudante de programação há 4 anos e sou apaixonado por tecnologia. Duran
 - **[ApiSistemaBancario](https://github.com/EderH3nr963/apiSistemaBancario.git)**  
   Um projeto que simula a criação de uma API para um sistema bancário, onde é possível realizar operações de depósito, saque e consulta de saldo.
 
+- **[ApiEcommerce](https://github.com/EderH3nr963/apiSistemaBancario.git)**  
+  Um projeto de desenvolvimento da api de um ecommerce.
+
 ## Estatística
 
 <div>
