@@ -4,7 +4,7 @@
 
 # Olá, eu sou o Eder Henrique 👋
 
-Sou estudante de programação há 4 anos e sou apaixonado por tecnologia. Durante minha jornada, explorei diversas linguagens e frameworks, com foco em Python, JavaScript, PHP, React, React Native, Dart e Flutter. Estou sempre buscando aprender mais e colaborar com outros desenvolvedores em projetos interessantes.
+Sou estudante de programação e sou apaixonado por tecnologia. Durante minha jornada, explorei diversas linguagens e frameworks, com foco em Python, JavaScript, PHP, React, React Native, Dart e Flutter. Estou sempre buscando aprender mais e colaborar com outros desenvolvedores em projetos interessantes.
 
 ## 🚀 Tecnologias que eu utilizo:
 - **Database**:
