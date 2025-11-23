@@ -54,6 +54,12 @@ Sou estudante de programação e sou apaixonado por tecnologia. Durante minha jo
 - **[ApiEcommerce](https://github.com/EderH3nr963/ApiEcommerce.git)**  
   Um projeto de desenvolvimento da api de um ecommerce.
 
+ - **[ApiChatConnect](https://github.com/EderH3nr963/chatConnectBack.git)**
+   Backend de um sistema completo de chat em tempo real, desenvolvido com Node.js, Express, TypeScript, Prisma e Socket.IO. Inclui autenticação JWT, gerenciamento de usuários, chats em grupo, mensagens, camadas de serviço/repositório e arquitetura escalável.
+
+- **[Portifolio Profissional](https://github.com/EderH3nr963/ederhenrique.git)**
+  Landing page moderna e responsiva criada usando React e Tailwind, apresentando minhas habilidades, projetos e formas de contato de maneira elegante e objetiva.
+
 ## Estatística
 
 <div>
