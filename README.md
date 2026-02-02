@@ -68,7 +68,7 @@ Sou estudante de programação e sou apaixonado por tecnologia. Durante minha jo
 </div>
 
 ## 📬 Onde me encontrar:
-- Email: ederhenriquevicentejust18@gmail.com
+- Email: ederjustino104@gmail.com
 - Intagram: @eder_.h_bjj
 - Whatsapp: (16) 9 9397-9822
 
