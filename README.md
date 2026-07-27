@@ -54,9 +54,6 @@ Sou estudante de programação e sou apaixonado por tecnologia. Durante minha jo
 - **[ApiSistemaBancario](https://github.com/EderH3nr963/apiSistemaBancario.git)**  
   Um projeto que simula a criação de uma API para um sistema bancário, onde é possível realizar operações de depósito, saque e consulta de saldo.
 
-- **[ApiEcommerce](https://github.com/EderH3nr963/ApiEcommerce.git)**  
-  Um projeto de desenvolvimento da api de um ecommerce.
-
  - **[ApiChatConnect](https://github.com/EderH3nr963/chatConnectBack.git)**
    Backend de um sistema completo de chat em tempo real, desenvolvido com Node.js, Express, TypeScript, Prisma e Socket.IO. Inclui autenticação JWT, gerenciamento de usuários, chats em grupo, mensagens, camadas de serviço/repositório e arquitetura escalável.
 
