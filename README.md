@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,6&text=Eder%20Henrique&section=header&textBg=false&fontSize=50&fontAlign=50&animation=blink&fontColor=ffffff"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=6f23a6&text=Eder%20Henrique&fontColor=f5f5f5&fontSize=53"  />
 </div>
 
 <picture>
